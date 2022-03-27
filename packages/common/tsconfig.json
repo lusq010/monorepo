@@ -1,0 +1,17 @@
+{
+  "extends": "../tsconfig.base.json",
+  "references": [
+    {
+      "path": "../utils"
+    }
+  ],
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "baseUrl": "./",
+    "paths": {
+      "@lsq199198/monorepo-utils/*": ["../utils/src/*"]
+    }
+  },
+  "include": ["src"]
+}

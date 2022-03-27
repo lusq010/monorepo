@@ -1,0 +1,11 @@
+{
+  "references": [
+    {
+      "path": "utils"
+    },
+    {
+      "path": "common"
+    }
+  ],
+  "files": []
+}
