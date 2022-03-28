@@ -11,6 +11,6 @@ updates:
       interval: "daily"
     reviewers:
       - "lusq010"
-    commit-msg:
+    commit-message:
       prefix: "build"
     open-pull-requests-limit: 5
